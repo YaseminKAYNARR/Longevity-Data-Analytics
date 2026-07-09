@@ -1,4 +1,4 @@
-# Longevity-Data-Analytics: A Bio-Statistical & Clinical Categorization Approach
+# Longevity-Data-Analytics : A Bio-Statistical & Clinical Categorization Approach
 
 This repository contains a data analysis project that explores various lifestyle, dietary, and clinical factors influencing human life expectancy. Utilizing data science tools, these factors are mapped into distinct biological domains to reveal high-level trends in longevity.
 
